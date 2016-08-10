@@ -6,4 +6,9 @@ defaults:
       path: "_posts" 
     values:
       layout: "posts"
+        -
+    scope:
+      path: "about" 
+    values:
+      layout: "posts"
 permalink: /blog/:year/:month/:day/:title
