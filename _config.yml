@@ -1,2 +1,8 @@
 name: Sean Merrow
 markdown: kramdown
+defaults:
+  -
+    scope:
+      path: "_posts" 
+    values:
+      layout: "posts"
