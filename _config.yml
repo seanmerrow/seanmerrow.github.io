@@ -6,7 +6,7 @@ defaults:
       path: "_posts" 
     values:
       layout: "posts"
-        -
+  -
     scope:
       path: "about" 
     values:
