@@ -6,7 +6,7 @@ baseurl: ""
 url: "https://seanmerrow.github.io/"
 title_description: "This is my blog site."
 #title_image: "http://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
-title_image: "https://seanmerrow.github.io/images/sean.jpg"
+title_image: "https://seanmerrow.github.io/images/sean-sep.jpg"
 google_analytics: "UA-20365477-4"
 #disqus_account: cartenoire
 github_repository: https://seanmerrow.github.io/
