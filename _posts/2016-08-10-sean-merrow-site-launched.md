@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Sean Merrow Launches Site"
 date: 2016-08-10
 ---
